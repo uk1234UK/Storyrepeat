@@ -1,4 +1,4 @@
 # Storyrepeat
 Practicing git
 
-making new to users
+Learning version control of a git
